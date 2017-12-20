@@ -1,0 +1,17 @@
+prc-keyimages (0.2.3) UNRELEASED; urgency=low
+
+  * Ensures responses happen as soon as possible.
+
+ -- Greg Tangey <gtangey@perthradclinic.com.au>  Wed, 11 Jan 2017 14:41:00 +0800
+
+prc-keyimages (0.2.2) stable; urgency=low
+
+  * Nothing
+
+ -- Greg Tangey <gtangey@perthradclinic.com.au>  Wed, 11 Jan 2017 09:43:21 +0800
+
+prc-keyimages (0.2.1) stable; urgency=low
+
+  * Allow querying for lots of images at once.
+
+ -- Greg Tangey <gtangey@perthradclinic.com.au>  Tue, 10 Jan 2017 14:32:14 +0800

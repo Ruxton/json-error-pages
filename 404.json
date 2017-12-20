@@ -1,0 +1,10 @@
+HTTP/1.0 404 Not Found
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{
+  "code": 404,
+  "error": "not_found",
+  "error_description": "The requested resource could not be found but may be available again in the future."
+}

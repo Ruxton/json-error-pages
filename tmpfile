@@ -1,0 +1,10 @@
+cat <<END_OF_TEXT
+Package: json-error-pages
+Version: ${VERSION}
+Architecture: all
+Maintainer: Greg Tangey <greg@digitalignition.net>
+Section: extras
+Priority: optional
+Homepage: https://github.com/Ruxton/json-error-pages
+Description: Installs error pages in JSON format for use by HAProxy/nginx
+END_OF_TEXT

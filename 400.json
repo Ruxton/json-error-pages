@@ -1,0 +1,10 @@
+HTTP/1.0 400 Bad Request
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{
+  "code": 400,
+  "error": "bad_request",
+  "error_description": "The request could not be understood due to malformed syntax."
+}

@@ -1,0 +1,10 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{
+  "code": 503,
+  "error": "temporarily_unavailable",
+  "error_description": "We are currently down for maintenance"
+}
